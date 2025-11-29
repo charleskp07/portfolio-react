@@ -23,7 +23,7 @@ export default function Education() {
             details: []
         },
         {
-            institution: "Lycée Marie Romano, Niamtougou",
+            institution: "Lycée Marie Romano, Niamtougou", 
             degree: "Baccalauréat - Série D",
             period: "Octobre 2019 - Septembre 2020",
             details: []
