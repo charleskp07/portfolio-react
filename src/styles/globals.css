@@ -23,7 +23,7 @@ body {
     line-height: 1.6;
     color: var(--text-color);
     background-color: var(--background-color);
-    scroll-behavior: smooth;
+    scroll-behavior: smooth; 
 }
 
 /* Container */

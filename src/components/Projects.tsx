@@ -10,13 +10,13 @@ export default function Projects() {
         {
             title: "Application de Vote Électronique",
             description: "Système de vote sécurisé avec interface React, application mobile Flutter et API RESTful complète avec authentification et gestion des sessions.",
-            technologies: ["React", "Flutter", "Node.js", "Express", "MySQL", "JWT"],
+            technologies: ["React", "Flutter", "Laravel", "MySQL"],
             category: "Full-Stack"
         },
         {
             title: "Application Mobile Flutter",
             description: "Application mobile cross-platform avec système d'authentification, navigation fluide et interface utilisateur moderne suivant les guidelines Material Design.",
-            technologies: ["Flutter", "Dart", "Firebase", "REST API"],
+            technologies: ["Flutter", "Dart", "REST API"],
             category: "Mobile"
         },
         {
